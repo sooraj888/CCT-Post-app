@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.appName {
+  background-color: rgb(158, 42, 158);
+  width: 100%;
+  margin-bottom: 10px;
+  color: white;
+}
